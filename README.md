@@ -3,7 +3,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Aspiring+Software+Engineer;Full+Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Aspiring+Software+Engineer;Full+Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor;Data+Engineer" />
 </p>
 
 ---
@@ -21,7 +21,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=MachineLearning,python,Ai,cpp,javascript,react,nodejs,mysql,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=Machine Learning,python,Claude,Cloud,cpp,javascript,react,nodejs,mysql,html,css,git,github,vscode" />
 
 </p>
 
@@ -72,7 +72,7 @@
 # 🎵 Spotify Playing
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31h7ac7xz5xzp54bil2t6ih5n254&cover_image=true&theme=novatorem" />
+  <img src="https://open.spotify.com/user/31h7ac7xz5xzp54bil2t6ih5n254?si=mR6r_Za6S86xO8XhA7O8Hg" />
 </p>
 
 
@@ -99,7 +99,8 @@
 # 💻 Coding GIF
 
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+<img src="<img width="626" height="351" alt="image" src="https://github.com/user-attachments/assets/97b9dc3b-f61d-4322-9874-22f3e3b31bcd" />
+"/>
 </p>
 
 
