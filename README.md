@@ -31,9 +31,9 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Monuwithgithub&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Monuwithgithub&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -67,39 +67,14 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
 
-# 🚀 Visitor Count
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Monuwithgithub&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
 
 # 🎵 Spotify Playing
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=Monika&cover_image=true&theme=novatorem" />
 </p>
 
----
-
-# 😂 Random Dev Meme
-
-<p align="center">
-  <img src="https://random-memer.herokuapp.com/" width="400px"/>
-</p>
-
----
-
-# ✨ Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
 
 # 📫 Connect With Me
 
