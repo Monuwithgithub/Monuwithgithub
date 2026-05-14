@@ -21,7 +21,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=Machine Learning,python,Claude,Cloud,cpp,javascript,react,nodejs,mysql,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,Claude,Cloud,cpp,javascript,react,nodejs,mysql,html,css,git,github,vscode" />
 
 </p>
 
@@ -53,14 +53,6 @@
 
 ---
 
-# 🐍 Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Monuwithgithub/Monuwithgithub/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 # 🎮 Pacman Contribution Game
 
 <p align="center">
@@ -69,11 +61,6 @@
 
 
 
-# 🎵 Spotify Playing
-
-<p align="center">
-  <img src="https://open.spotify.com/user/31h7ac7xz5xzp54bil2t6ih5n254?si=mR6r_Za6S86xO8XhA7O8Hg" />
-</p>
 
 
 # 📫 Connect With Me
@@ -94,13 +81,5 @@
 
 </p>
 
----
-
-# 💻 Coding GIF
-
-<p align="center">
-<img src="<img width="626" height="351" alt="image" src="https://github.com/user-attachments/assets/97b9dc3b-f61d-4322-9874-22f3e3b31bcd" />
-"/>
-</p>
 
 
