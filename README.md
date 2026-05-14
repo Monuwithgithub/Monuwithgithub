@@ -48,7 +48,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Monuwithgithub&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
 </p>
 
 ---
@@ -56,7 +56,7 @@
 # 🐍 Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Monuwithgithub/Monuwithgithub/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -72,7 +72,7 @@
 # 🚀 Visitor Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Monuwithgithub&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -105,11 +105,11 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/monika-38392728a">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Monuwithgithub">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
