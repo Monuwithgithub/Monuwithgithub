@@ -41,7 +41,7 @@
 
 # 📈 Activity Graph
 
-[![Monika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
+[![Monika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Monuwithgithub&theme=tokyo-night)](https://github.com/Monuwithgithub)
 
 ---
 
