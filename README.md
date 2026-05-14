@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Monika</h1>
-<h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Data Analyst</h3>
+<h3 align="center">🚀 Data Engineer | AI Enthusiast | Data Analyst | Full Stack</h3>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Aspiring+Software+Engineer;MERN+Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Aspiring+Software+Engineer;Full+Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor" />
 </p>
 
 ---
@@ -11,8 +11,8 @@
 # 🌟 About Me
 
 - 🔭 Currently working on **AI + Web Development Projects**
-- 🌱 Learning **MERN Stack, DSA, Machine Learning**
-- 💬 Ask me about **Java, Python, React, ASP.NET**
+- 🌱 Learning **AI, DSA, Machine Learning**
+- 💬 Ask me about **Machine Learning , Python, React, AI **
 - ⚡ Fun fact: I love building futuristic projects 🚀
 
 ---
@@ -21,7 +21,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,react,nodejs,mongodb,mysql,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=MachineLearning,python,Ai,cpp,javascript,react,nodejs,mysql,html,css,git,github,vscode" />
 
 </p>
 
@@ -72,7 +72,7 @@
 # 🎵 Spotify Playing
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31h7ac7xz5xzp54bil2t6ih5n2541&cover_image=true&theme=novatorem" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31h7ac7xz5xzp54bil2t6ih5n254&cover_image=true&theme=novatorem" />
 </p>
 
 
